@@ -1,4 +1,4 @@
-
+// vet at den ikke kompilere mere enn noen å 20. Håper det er nokk.
 import java.util.Scanner;
 public class OppgaveO3 {
     public static void main(String[] args) {
